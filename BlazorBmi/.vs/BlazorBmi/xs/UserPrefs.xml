@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{5332030F-15D7-44DA-84D5-7202BAC005E4}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BlazorBmi.Server PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorBmi/Client/Pages/BmiSimple.razor">
+    <Files>
+      <File FileName="BlazorBmi/Client/Pages/BmiSimple.razor" Line="35" Column="1" />
+      <File FileName="BlazorBmi/Client/Pages/FetchData.razor" Line="4" Column="1" />
+      <File FileName="BlazorBmi/Client/Shared/NavMenu.razor" Line="26" Column="15" />
+      <File FileName="BlazorBmi/Client/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css" Line="2" Column="1" />
+      <File FileName="BlazorBmi/Client/Pages/Counter.razor" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazorBmi" expanded="True">
+            <Node name="BlazorBmi.Client" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="BmiSimple.razor" selected="True" />
+              </Node>
+              <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="open-iconic" expanded="True">
+                    <Node name="font" expanded="True">
+                      <Node name="css" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

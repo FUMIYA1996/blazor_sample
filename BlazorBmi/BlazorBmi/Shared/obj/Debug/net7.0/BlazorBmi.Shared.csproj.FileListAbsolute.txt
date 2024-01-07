@@ -1,0 +1,12 @@
+/Users/FumiyaMurakami/Projects/BlazorBmi/BlazorBmi/Shared/bin/Debug/net7.0/BlazorBmi.Shared.deps.json
+/Users/FumiyaMurakami/Projects/BlazorBmi/BlazorBmi/Shared/bin/Debug/net7.0/BlazorBmi.Shared.dll
+/Users/FumiyaMurakami/Projects/BlazorBmi/BlazorBmi/Shared/bin/Debug/net7.0/BlazorBmi.Shared.pdb
+/Users/FumiyaMurakami/Projects/BlazorBmi/BlazorBmi/Shared/obj/Debug/net7.0/BlazorBmi.Shared.csproj.AssemblyReference.cache
+/Users/FumiyaMurakami/Projects/BlazorBmi/BlazorBmi/Shared/obj/Debug/net7.0/BlazorBmi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/FumiyaMurakami/Projects/BlazorBmi/BlazorBmi/Shared/obj/Debug/net7.0/BlazorBmi.Shared.AssemblyInfoInputs.cache
+/Users/FumiyaMurakami/Projects/BlazorBmi/BlazorBmi/Shared/obj/Debug/net7.0/BlazorBmi.Shared.AssemblyInfo.cs
+/Users/FumiyaMurakami/Projects/BlazorBmi/BlazorBmi/Shared/obj/Debug/net7.0/BlazorBmi.Shared.csproj.CoreCompileInputs.cache
+/Users/FumiyaMurakami/Projects/BlazorBmi/BlazorBmi/Shared/obj/Debug/net7.0/BlazorBmi.Shared.dll
+/Users/FumiyaMurakami/Projects/BlazorBmi/BlazorBmi/Shared/obj/Debug/net7.0/refint/BlazorBmi.Shared.dll
+/Users/FumiyaMurakami/Projects/BlazorBmi/BlazorBmi/Shared/obj/Debug/net7.0/BlazorBmi.Shared.pdb
+/Users/FumiyaMurakami/Projects/BlazorBmi/BlazorBmi/Shared/obj/Debug/net7.0/ref/BlazorBmi.Shared.dll
